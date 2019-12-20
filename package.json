@@ -1,0 +1,17 @@
+{
+  "name": "stimulus-actionview-live",
+  "version": "0.0.5",
+  "description": "StimulusJS controller for Rails plugin actionview-component-live.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "https://github.com/traels/stimulus-actionview-live",
+  "author": "Simon Træls Ravn <cs2@cs2.dk>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "stimulus": "^1.1.0"
+  }
+}
